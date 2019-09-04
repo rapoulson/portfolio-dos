@@ -1,7 +1,7 @@
 {
   "title": "Brain Relay",
-  "date": "Sunday May 6th, 2018",
-  "thumbnail": "/images/uploads/seattle.jpg",
-  "category": "Photography",
-  "body": "It was fun visiting the Museum of Pop Culture."
+  "date": "Wednesday September 5th, 2018",
+  "thumbnail": "/images/uploads/brainrelay.gif",
+  "category": "",
+  "body": "Brain Relay was created as part of the Different Games Festival's XR Brain Jam which pairs VR/AR developers with neuroscientists. We learned that one of the most challenging parts of teaching neuroscience is helping students memorize the names of the structures of the brain. We built a multiplayer educational experience and game where instructors and students could inhabit a 3D model of a real brain scan and race along the paths that messages travel through the brain, learning the structures a long the way.\n\nBrain Relay is a networked multiplayer experience for the Oculus Rift and Quest made using the Unity game engine."
 }
