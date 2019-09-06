@@ -1,7 +1,7 @@
 {
   "title": "VR for Web Developers with A-Frame",
-  "date": "Sunday July 8th, 2018",
-  "thumbnail": "/images/uploads/menu-setup.jpg",
-  "category": "Setup",
-  "body": "# The sidebar navigation in Bael displays the pages collection and the links list inside the Setup collection.\n\n![Menu backend](/images/uploads/menubackend.png)\n\n**Fill these out in the Netlify CMS backend to populate your menu.** The site name is also populated via the Setup collection.\n\n![menu animation example](/images/uploads/menu-animation-cropped.gif)"
+  "date": "Friday September 6th, 2019",
+  "thumbnail": "/images/uploads/screen-shot-2019-09-06-at-3.51.36-pm.png",
+  "category": "",
+  "body": "From 2016 to 2018 I was fortunate to have the opportunity to speak about Virtual Reality on the web on three different continents. During this time I also joined Mozilla Tech Speakers and mentored a cohort of new speakers. You can see the slides from a version of the talk that I gave [here](https://speakerdeck.com/rapoulson/vr-for-web-developers-with-a-frame)."
 }
